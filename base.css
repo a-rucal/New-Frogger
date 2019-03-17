@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'Arcade';
+  src: url("fonts/ARCADECLASSIC.TTF");
+}
+
+/* Center the container */
+#container {
+  padding-top:50px;
+  margin:0 auto;
+  width:480px;
+}
+/* Give canvas a background */
+canvas {
+  background-color: white;
+}
